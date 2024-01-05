@@ -6,7 +6,6 @@ The convolutional neural network is trained for 16384 epochs on batch-sizes of 1
 ## Architecture
 
 The convolutional neural network contains 7506563 parameters, and its architecture is described and illustrated below:
-
 ```
 ----------------------------------------------------------------
         Layer (type)               Output Shape         Param #
@@ -30,6 +29,8 @@ Params size (MB): 28.64
 Estimated Total Size (MB): 50.93
 ----------------------------------------------------------------
 ```
+
+![CNN Architecture](./extra/cnn-architecture.png)
 
 ## Test Examples
 
