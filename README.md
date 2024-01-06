@@ -41,53 +41,69 @@ Predicted Parameters: row=44.30    col=37.87    radius=25.00
 Actual Parameters:    row=42.00    col=36.00    radius=25.00   
 IOU: 0.8597134947776794
 ```
-![Example #1](./extra/example-1.png)
+<p align="center">
+  <img alt="Example #1" src="./extra/example-1.png" />
+</p>
 
 ```
 Predicted Parameters: row=76.07    col=48.05    radius=21.62   
 Actual Parameters:    row=81.00    col=44.00    radius=15.00   
 IOU: 0.48151856660842896
 ```
-![Example #2](./extra/example-2.png)
+<p align="center">
+  <img alt="Example #2" src="./extra/example-2.png" />
+</p>
 
 ```
 Predicted Parameters: row=40.17    col=19.47    radius=31.79   
 Actual Parameters:    row=40.00    col=19.00    radius=31.00   
 IOU: 0.9509829878807068
 ```
-![Example #3](./extra/example-3.png)
+<p align="center">
+  <img alt="Example #3" src="./extra/example-3.png" />
+</p>
 
 ```
 Predicted Parameters: row=41.32    col=84.40    radius=39.31   
 Actual Parameters:    row=43.00    col=87.00    radius=41.00   
 IOU: 0.892956018447876
 ```
-![Example #4](./extra/example-4.png)
+<p align="center">
+  <img alt="Example #4" src="./extra/example-4.png" />
+</p>
 
 ```
 Predicted Parameters: row=43.13    col=94.73    radius=39.64   
 Actual Parameters:    row=44.00    col=98.00    radius=42.00   
 IOU: 0.875950813293457
 ```
-![Example #5](./extra/example-5.png)
+<p align="center">
+  <img alt="Example #5" src="./extra/example-5.png" />
+</p>
 
 ```
 Predicted Parameters: row=65.11    col=42.53    radius=35.41   
 Actual Parameters:    row=66.00    col=40.00    radius=37.00   
 IOU: 0.8944234848022461
 ```
-![Example #6](./extra/example-6.png)
+<p align="center">
+  <img alt="Example #6" src="./extra/example-6.png" />
+</p>
 
 ```
 Predicted Parameters: row=81.21    col=62.70    radius=34.02   
 Actual Parameters:    row=84.00    col=66.00    radius=36.00   
 IOU: 0.840255618095398
 ```
-![Example #7](./extra/example-7.png)
+<p align="center">
+  <img alt="Example #7" src="./extra/example-7.png" />
+</p>
 
 ```
 Predicted Parameters: row=49.28    col=81.93    radius=31.74   
 Actual Parameters:    row=52.00    col=83.00    radius=33.00   
 IOU: 0.8816741108894348
 ```
-![Example #8](./extra/example-8.png)
+<p align="center">
+  <img alt="Example #8" src="./extra/example-8.png" />
+</p>
